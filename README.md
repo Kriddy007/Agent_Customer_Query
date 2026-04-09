@@ -12,6 +12,8 @@ Every customer query goes through a 3-stage pipeline:
 
 ## Pipeline Flow
 
+Customer Query → NLP Analysis → RAG Retrieval → Agent Response
+
 ## Tech Stack
 
 | Component | Tool |
